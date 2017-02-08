@@ -85,6 +85,12 @@
 		<Unit filename="/Users/championswimmer/CodingBlocks/Workshops/VMC/VMC_Sort/main.cpp">
 			<Option target="VMC_Sort"/>
 		</Unit>
+		<Unit filename="/Users/championswimmer/CodingBlocks/Workshops/VMC/VMC_Sort/mergesort.h">
+			<Option target="VMC_Sort"/>
+		</Unit>
+		<Unit filename="/Users/championswimmer/CodingBlocks/Workshops/VMC/VMC_Sort/simplesort.h">
+			<Option target="VMC_Sort"/>
+		</Unit>
 		<Unit filename="/Users/championswimmer/CodingBlocks/Workshops/VMC/VMC_Sort/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

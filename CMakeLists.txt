@@ -3,5 +3,5 @@ project(VMC_Sort)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp)
+set(SOURCE_FILES main.cpp simplesort.h mergesort.h)
 add_executable(VMC_Sort ${SOURCE_FILES})
